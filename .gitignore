@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Local dev database
+db.sqlite3
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / Editor
+.DS_Store
+.vscode/
